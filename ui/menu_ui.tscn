@@ -3,6 +3,7 @@
 [ext_resource type="Script" uid="uid://tyq38b1jykwm" path="res://ui/menu_ui.gd" id="1_55kfv"]
 
 [node name="MenuUI" type="CanvasLayer"]
+process_mode = 3
 script = ExtResource("1_55kfv")
 
 [node name="Background" type="PanelContainer" parent="."]
